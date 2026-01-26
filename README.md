@@ -2,6 +2,9 @@
 
 A complete **Streamlit web application** that predicts whether a given SMS/Email message is **Spam** or **Not Spam (Ham)** using **Naive Bayes** classification with **TF-IDF** text vectorization.
 
+## Streamlit url
+- https://spamdetecti.streamlit.app/
+
 ---
 
 ## 📌 Project Features
